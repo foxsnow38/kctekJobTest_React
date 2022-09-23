@@ -1,0 +1,92 @@
+[
+    
+    {
+        "q": "Aşağıdakilerden hangisi trafik kazalarının en önemli sebebidir?",
+        "a1": "Trafik görevlisi sayısının yetersiz olması",
+        "a2": "Uyarı işaretlerinin yetersiz olması",
+        "a3": "Sürücülerin kurallara uymaması",
+        "a4": "Yolların bakımsız olması",
+        "correction": "a3"
+    },
+    {
+        "q": "Araçlarda emniyet kemeri kullanımının zorunlu olması ile aşağıdakilerden hangisi hedeflenmektedir?",
+        "a1": "Kazaların önlenmesi",
+        "a2": "Sürücülerin dikkatinin artırılması",
+        "a3": "Denetimlerde herhangi bir sorun yaşanmaması",
+        "a4": "Kaza anında ölüm ve yaralanmaların enaza indirilmesi",
+        "correction": "a4"
+    },
+    {
+        "q": "Görev hâlinde iken geçiş üstünlüğü hakkına sahiptir. Görev hâli dışında geçiş üstünlüğü işaretini ve hakkını kullanması yasaktır.Hizmetin yerine getirilmesini sağlamak amacına uygun olması şartıyla, Kara Yolları Trafik Kanunu ve bu Yönetmelikte gösterilen trafik kısıtlamalarına ve yasaklarına bağlı değildir. Buna göre aşağıdakilerden hangisi sürülmelerine ilişkin esas ve kuralları verilen araçlardandır?",
+        "a1": "Kamu hizmeti taşıtı",
+        "a2": "Okul taşıtı",
+        "a3": "İtfaiye",
+        "a4": "Çekici",
+        "correction": "a3"
+    },
+    {
+        "q": "Aşağıdakilerden hangisi park etmede alınacak tedbirlerden biri değildir?",
+        "a1": "El freni ile tespit edilmesi",
+        "a2": "Eğimli yollarda ön tekerleğin sağa çevrilmesi",
+        "a3": "Eğimli yollarda otobüslerin her iki arka tekerleklerine takoz konulması",
+        "a4": "Aracın terk edilmesi hâlinde camlarının açık bırakılması",
+        "correction": "a4"
+    },
+    {
+        "q": "I. Motosiklet II. Elektrikli bisiklet III. Lastik tekerlekli traktör IV. Üç tekerlekli yük motosikleti Yukarıdaki taşıtlardan hangilerinin sürülmesi sırasında koruma başlığı takılması mecburidir?",
+        "a1": "I ve II",
+        "a2": "I, III ve IV",
+        "a3": "II, III ve IV",
+        "a4": "I, II, III ve IV",
+        "correction": "a1"
+    },
+    {
+        "q": "Aşağıdakilerden hangisi trafik kazalarına neden olan faktörlerden yol unsuru içinde yer alır?",
+        "a1": "Havanın sisli olması",
+        "a2": "Yol zemininin gevşek olması",
+        "a3": "Yüksek hızda araç kullanılması",
+        "a4": "Araç fren sisteminin arızalanması",
+        "correction": "a2"
+    },
+    {
+        "q": "Sürücünün aşağıdakilerden hangisini yapması kural ihlali sayılır?",
+        "a1": "Üç şeritli ve iki yönlü yollarda sağ şeritten gitmesi",
+        "a2": "Yaracın cinsine ve hızına uygun olan şeridi kullanması",
+        "a3": "Geçme, dönme gibi mecburi hâller dışında şerit değiştirmesi",
+        "a4": "Şerit değiştirmeden önce, gireceği şeritte sürülen araçların güvenle geçişlerini beklemesi",
+        "correction": "a3"
+    },
+    {
+        "q": "Araç sürücülerinin duraklanan veya parke dilen yerden çıkarken; I. Işıkla veya kolla çıkış işareti vermeleri, II. Araçlarını ve araçların etrafını kontrol etmeleri, III. Yoldan geçen araçları ikaz ederek durdurmaları, IV. Görüş alanları dışında kalan yerler varsa gözcü bulundurmaları mecburidir. Verilen bilgilerden hangileri doğrudur?",
+        "a1": "I ve III",
+        "a2": "I, II ve IV",
+        "a3": "II, III ve IV",
+        "a4": "I, II, III ve IV",
+        "correction": "a2"
+    },
+    {
+        "q": "Aşağıdakilerden hangisi trafiğin çevreye verdiği zararları önlemeye yönelik davranışlardandır?",
+        "a1": "ITemiz olmayan yakıt kullanılması",
+        "a2": "Kimyasal maddelerin ambalajlanarak taşınması ",
+        "a3": "Hususi araçların kullanılmasına gayret edilmesi",
+        "a4": "Araç motorunun duraklama ve park etme sırasında çalışması",
+        "correction": "a2"
+    },
+    {
+        "q": "Aşağıdakilerden hangisi Emniyet Genel Müdürlüğünün görev ve yetkilerindendir?",
+        "a1": "Araçların tescil işlemlerini yapma",
+        "a2": "Motorlu taşıt sürücü sertifikası vermek",
+        "a3": "Kara yollarında gerekli işaretlemeleri yapmak",
+        "a4": "Sürücü kursunda eğitilenlerin sınavını yapmak",
+        "correction": "a1"
+    },
+    {
+        "q": "Sola dönüş yapacak olan sürücülerin aşağıdakilerden hangisini yapması yanlıştır?",
+        "a1": "Dar bir kavisle dönmesi",
+        "a2": "Döneceği yönü önceden işaretle bildirmesi",
+        "a3": "Dönüşünü tamamladıktan sonra hızına uygun şeride girmesi",
+        "a4": "Kurallara uygun olarak karşıya geçen yayalara ilk geçiş hakkını vermesi",
+        "correction": "a1"
+    }
+
+]

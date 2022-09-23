@@ -1,0 +1,91 @@
+[
+    
+    {
+        "q": "2+2",
+        "a1": "4",
+        "a2": "5",
+        "a3": "3",
+        "a4": "Alırken 3,Satarken 5",
+        "correction": "a4"
+    },
+    {
+        "q": "Aslı toplam 2 ay 1 hafta 5 gün süren yaz tatilinin 54 gününü evinde ve kalan süreyi ise șehir dışında geçirmiştir.Asl 'nin yaz tatilinde şehir dışında geçirdiği süre aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir ? (Ay 30 gün kabul edilmistir ",
+        "a1": "22",
+        "a2": "20",
+        "a3": "18",
+        "a4": "16",
+        "correction": "a3"
+    },
+    {
+        "q": "Bir dar açının doğal sayı olarak alabileceği en büyük değer ile bir geniş açınin doğal sayı olarak alabileceği en küçük değer arasında kaç derecelik fark vardır?",
+        "a1": "91",
+        "a2": "90",
+        "a3": "2",
+        "a4": "1",
+        "correction": "a3"
+    },
+    {
+        "q": "Erim, 30 soruluk bir Ingilizce testini saat 10:15'te çözmeye başlamıştır. Testteki soruların yarısını 20 dakika 52 saniyede çözmüştür. Kalan sorularin çözümünü ise 25 dakika 8 saniyede tamamlamiıştır. Buna göre, Erim testi bitirdiğinde saat kaçtır?",
+        "a1": "10:46",
+        "a2": "11:01",
+        "a3": "11:06",
+        "a4": "11:11",
+        "correction": "a2"
+    },
+    {
+        "q": "4000 kişilik yolcu kapasitesi olan bir tren, 3075 yolcu ile hareket etmektedir. Bir sonraki durakta trenden 650 yolcu inmiştir ve 370 yeni yolcu binmiştir.Buna göre, son durumda trende kaç koltuk boş kalmıştır?",
+        "a1": "925",
+        "a2": "1020",
+        "a3": "1205",
+        "a4": "1295",
+        "correction": "a3"
+    },
+    {
+        "q": "488+8 işleminde bölen ve bölünen en yakın onluga yuvarlandiğinda ulaşılacak tahmini bölme sonucu ile gerçek bölme sonucu arasındaki fark kaçtır?",
+        "a1": "9",
+        "a2": "10",
+        "a3": "11",
+        "a4": "12",
+        "correction": "a4"
+    },
+    {
+        "q": "a ve b birer požitif tam say ve c asal sayi olmak uzere, c=a.b+a+b+1 eşitligi verliyor.Buna göre, aşağidaki sıralamalardan hangisi doğrudur?",
+        "a1": " a = b < c",
+        "a2": " c < a = b",
+        "a3": " b < a < c",
+        "a4": " b < c < a",
+        "correction": "a1"
+    },
+    {
+        "q": "Beş ardişik tek sayı yan yana yazıilarak sekiz basamaklı bir doğal sayı oluşturuluyor.Bu sayının rakamlaı toplamı kaçtır?",
+        "a1": "25",
+        "a2": "28",
+        "a3": "31",
+        "a4": "34",
+        "correction": "a2"
+    },
+    {
+        "q": "Sayi dogrusu üzerinde verilen a ve b sayılarıyla ilgili aşağidakiler biliniyor. a sayısi-2 nin solundadır. b sayisi1 ile 0 arasındadır. Buna göre I.b-a> II. (a + b)2 >4 II. a>-b2  ifadelerinden hangileri doğrudur?",
+        "a1": "1",
+        "a2": "2",
+        "a3": "1 ve 2",
+        "a4": "2 ve 3",
+        "correction": "a3"
+    },
+    {
+        "q": "Asal bõlenlerinin toplamına bölünebilen doğal sayılar  asil sayı olarak adlandınlıyor. Orneğin 60 sayısinıin asal bölenleri 2, 3 ve 5 tir. 60 sayısı asal bolenlerinin toplamı olan 10'a bölünebildiğinden bir asil sayidir. Buna göre, asağidakilerden hangisi bir asil savidır?",
+        "a1": "56",
+        "a2": "87",
+        "a3": "91",
+        "a4": "105",
+        "correction": "a4"
+    },
+    {
+        "q": "Düz bir arazide yer alan bir bina ile bir ağacın yükseklikleri arasındaki fark 8 metredir. Bir süre sonra, ağacın yūksekligi iki katına çıkmış ve bu fark 3 metre olmuştur. Buna göre, binanın yüksekliği I. 13 metre II. 16 metre III. 19 metre dohoioeindon banailori olohilien",
+        "a1": "2",
+        "a2": "1 ve 3",
+        "a3": "2 ve 3",
+        "a4": "2 ve 3 ve 1",
+        "correction": "a2"
+    }
+]

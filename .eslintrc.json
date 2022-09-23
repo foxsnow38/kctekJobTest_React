@@ -1,0 +1,102 @@
+{
+
+    "env": {
+        "browser": true,
+        "es2022": true,
+        "node": true
+    },
+    "extends": [
+        "airbnb", "prettier",
+        "plugin:node/recommended",
+        "eslint:recommended",
+        "plugin:react/recommended",
+        "plugin:@typescript-eslint/recommended"
+    ],
+    "overrides": [],
+    "parser": "@typescript-eslint/parser",
+
+    "plugins": [
+        "prettier",
+        "react",
+        "@typescript-eslint"
+    ],
+    "rules": {
+        "prettier/prettier": ["error",
+            {
+                "singleQuote": false,
+                "endOfLine": "auto",
+                "semicolon": false,
+                "semi":false
+            }
+        ],
+        "no-unused-vars": "warn",
+        "no-console": "off",
+        "func-names": "off",
+        "no-process-exit": "off",
+        "object-shorthand": "off",
+        "class-methods-use-this": "off",
+        "react/jsx-uses-react": "off",
+        "react/react-in-jsx-scope": "off",
+        "react/jsx-filename-extension": [2, {
+            "extensions": [".js", ".jsx", ".ts", ".tsx"]
+        }],
+        "global-require": 0,
+        "import/no-unresolved": [
+            0,
+            {
+                "caseSensitive": false
+            }
+        ],
+        "import/extensions": [
+            0,
+            "ignorePackages",
+            {
+              "js": "never",
+              "jsx": "never",
+              "ts": "never",
+              "tsx": "never"
+            }
+         ],
+         "node/no-missing-import":0,
+         "node/no-unsupported-features/es-syntax": [
+            "error",
+            { "ignores": ["modules"],
+            "version": ">=16.0.0" }
+          ],
+          "@typescript-eslint/no-var-requires": 0,
+          "import/no-import-module-exports":["off"],
+          "import/prefer-default-export":["off"],
+          "node/no-unpublished-import": ["warn", {
+            "tryExtensions": [".js", ".json", ".node"]
+        }],
+        "jsx-a11y/label-has-associated-control": ["error", {
+            "required": {
+              "some": ["nesting", "id"]
+            }
+          }],
+          "jsx-a11y/label-has-for": ["error", {
+            "required": {
+              "some": ["nesting", "id"]
+            }
+          }],
+          "prefer-const":"warn",
+          "no-await-in-loop":"warn",
+          "react/no-array-index-key":"warn",
+          "prefer-destructuring":"warn",
+          "no-inner-declarations":"off",
+          "react/no-unstable-nested-components":"warn"
+        
+    
+
+
+    },
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": "latest",
+        "sourceType": "module"
+    }
+
+
+}
